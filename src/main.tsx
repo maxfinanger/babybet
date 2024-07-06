@@ -1,4 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "../src/components/application.css";
 const root = ReactDOM.createRoot(document.getElementById("root")!);
-root.render(<h1>Hello React</h1>);
+root.render(<Application />);
