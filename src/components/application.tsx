@@ -1,3 +1,9 @@
+import React from "react";
+import Menubar from "./menubar/Menubar";
+import "./application.css";
+
 function Application() {
-  return <h1>Babybet</h1>;
+  return <Menubar />;
 }
+
+export default Application;
