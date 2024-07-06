@@ -15,9 +15,13 @@ The winner gets a champagne bottle costing 12500 kr. Every member pays 2500 kr o
 ## Members and Betting Dates
 
 ### Fredrik - 27.05.2027.
+
 ### Max - 14.06.2027.
-### Sebastian - 16.02.26. 
+
+### Sebastian - 16.02.26.
+
 ### Gabriel - 15.09.2024.
+
 ### Stian - 13.11.2026.
 
 ## Rules
@@ -34,5 +38,5 @@ If every member misses by more than 2 years there shall not be a winner, and the
 ## References
 
 ### Chat 7.05.24.
-![Facebook Screenshot](https://example.com/path/to/your/image.jpg "facebookRules.png")
 
+![Facebook Screenshot](https://example.com/path/to/your/image.jpg "facebookRules.png")
