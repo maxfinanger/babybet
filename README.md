@@ -39,4 +39,4 @@ If every member misses by more than 2 years there shall not be a winner, and the
 
 ### Chat 7.05.24.
 
-![Facebook Screenshot](https://example.com/path/to/your/image.jpg "facebookRules.png")
+![Facebook Screenshot](https://raw.githubusercontent.com/maxfinanger/babybet/main/public/facebookRules.png "facebookRules.png")
