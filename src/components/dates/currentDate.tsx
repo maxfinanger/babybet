@@ -26,7 +26,7 @@ function CurrentDate() {
   const dateDiffInDays = (date1: Date, date2: Date) => {
     const oneDay = 24 * 60 * 60 * 1000;
     // @ts-ignore
-      return Math.round(Math.abs((date1 - date2) / oneDay));
+    return Math.round(Math.abs((date1 - date2) / oneDay));
   };
 
   // Determine the current favorite
