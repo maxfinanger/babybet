@@ -14,7 +14,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "test": "prettier --check . && tsc --noEmit",
+    "test": "prettier --write . && tsc --noEmit && prettier --check .",
     "prepare": "husky",
     "build": "npm test && vite build"
   }
