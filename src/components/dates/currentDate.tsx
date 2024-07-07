@@ -9,11 +9,11 @@ function CurrentDate() {
   const currentDate = `${date}.${month}.${year}`;
 
   const betDates = [
+    { name: "Gabriel", date: "15.09.2024" },
+    { name: "Sebastian", date: "16.02.2026" },
+    { name: "Stian", date: "13.11.2026" },
     { name: "Fredrik", date: "27.05.2027" },
     { name: "Max", date: "14.06.2027" },
-    { name: "Sebastian", date: "16.02.2026" },
-    { name: "Gabriel", date: "15.09.2024" },
-    { name: "Stian", date: "13.11.2026" },
   ];
 
   // Function to parse date strings (DD.MM.YYYY) to Date objects

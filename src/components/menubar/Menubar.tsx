@@ -2,12 +2,15 @@ import React from "react";
 
 function Menubar() {
   return (
-    <>
-      <header className="bg-dark text-white p-1 w-100 d-flex justify-content-center text-center">
-        <h1>Babybet</h1>
-      </header>
-      <nav className="p-3 d-flex justify-content-between"></nav>
-    </>
+      <>
+          <nav className="bg-dark text-white p-1 w-100 d-flex justify-content-left text-left ps-4">
+              <button type="button" className="btn text-white">
+                  <h1>Babybet</h1>
+              </button>
+              <button type="button" className="btn text-white">
+              </button>
+          </nav>
+      </>
   );
 }
 
