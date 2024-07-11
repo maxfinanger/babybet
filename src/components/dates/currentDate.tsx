@@ -1,5 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
+import ChampagneAPI from "../api/champagneAPI";
 
 function CurrentDate() {
   const today = new Date();
