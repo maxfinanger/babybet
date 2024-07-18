@@ -10,7 +10,7 @@ function CurrentDate() {
   const currentDate = `${date}.${month}.${year}`;
 
   const betDates = [
-    { name: "Gabriel", date: "15.09.2024" },
+    { name: "Gabriell", date: "15.09.2024" },
     { name: "Sebastian", date: "16.02.2026" },
     { name: "Stian", date: "13.11.2026" },
     { name: "Fredrik", date: "27.05.2027" },
